@@ -12,8 +12,6 @@ begin
        LCD.Lines.Add( SN($3B4,$11));
        LCD.Lines.Add( GetSizeHexEdit);
      end;
-
-
 end;
 
 begin
